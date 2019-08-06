@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1558220821 source:c:\users\dario\onedrive\documentos\prog en c++\laberinto\main.cpp
+	<iostream>
+
+1559618044 source:c:\users\dario\onedrive\documentos\prog en c++\recursividad\laberinto\main.cpp
+	<iostream>
+	<windows.h>
+
+1559656590 source:d:\users\pc01\desktop\laberinto\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+
+1560473055 source:c:\users\darío\desktop\laberinto 4-6-19\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+
+1560524235 source:c:\users\darío\desktop\nueva carpeta\laberinto 4-6-19 (3)\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+
+1560826466 source:c:\users\darío\desktop\laberinto 4-6-19 (3)\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+
+1560864469 source:d:\users\pc01\desktop\laberinto nuevo\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+
+1560893410 source:c:\users\darío\desktop\laberinto nuevo\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+
+1560893556 source:c:\users\darío\desktop\maze\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+
+1560902460 source:c:\users\darío\desktop\laberinto\lab - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+
+1562792603 source:c:\users\darío\desktop\lab - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+
+1562868682 source:c:\users\darío\desktop\lab - sofia sztrum - caputo dario2\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+
+1562873812 source:c:\users\darío\desktop\laberinto progreso\lab - sofia sztrum - caputo dario2\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+
+1562891183 source:c:\users\dario\onedrive\desktop\lab - sofia sztrum - caputo dario2\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+
+1562969569 source:c:\users\dario\onedrive\desktop\laberinto - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1562969569 source:c:\users\darío\desktop\laberinto - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1563225565 source:c:\users\darío\desktop\final prog iii - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1563041037 source:c:\users\darío\desktop\laberinto progreso\final prog iii - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1563061913 source:c:\users\dario\onedrive\desktop\final prog iii - sofia sztrum - caputo dario\final prog iii - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1563066222 source:c:\users\dario\onedrive\desktop\final prog iii - version 1\final prog iii - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
+1563225565 source:c:\users\dario\onedrive\desktop\final prog iii - sofia sztrum - caputo dario\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<string>
+	<stdlib.h>
+	<mutex>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	<conio.h>
+
